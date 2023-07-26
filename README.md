@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>
-    Blockchain | NFT | SFT | DeFi | Dapp | React | Angular | Node.js | Laravel | Golang | Ruby On Rails
+    React | Angular | Node.js | Laravel | Golang | Ruby On Rails | Solidity
   </b>
 </p>
 
@@ -16,13 +16,13 @@ Cheers!
 
 ## Skills
 
-🔹 Blockchain | 3 years | 10 \
 🔹 React | 8 years | 10 \
 🔹 Angular | 9 years | 10 \
 🔹 Node.js | 9 years | 10 \
 🔹 Laravel | 8 years | 10 \
 🔹 Golang | 4 years | 10 \
 🔹 Runby On Rails | 5 years | 10 \
+🔹 Solidity, Hardhat | 3 | 10 \
 🔹 Postgres, Mysql, MongoDB, DynamoDB, Redis, Cassandra, Riak, ... \
 
 <!--
